@@ -1,12 +1,12 @@
 #  Networking Labs - Cisco Packet Tracer
 
-A collection of networking labs built using Cisco Packet Tracer as part of a university networking course.
+A collection of networking labs built using Cisco Packet Tracer
 
 ##  Labs Included
 
 ###  Routing
 - Static Routing : manually configured routes between routers
-- Dynamic Routing (RIP) : automatic route learning using RIP protocol with load balancing across multiple paths
+- Dynamic Routing (RIP) : automatic route learning using RIP protocol 
 
 ###  NAT (Network Address Translation)
 - Static NAT : one-to-one mapping of private to public IP addresses
