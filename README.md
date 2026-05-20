@@ -1,6 +1,8 @@
 #  Networking Labs - Cisco Packet Tracer
 
 A collection of networking labs built using Cisco Packet Tracer
+<img width="1920" height="1009" alt="Cisco Packet Tracer - C__Users_User_Cisco Packet Tracer 9 0 0_saves_FixedSubnetting+VLSM pkt 5_20_2026 11_54_31 PM" src="https://github.com/user-attachments/assets/09389e5e-0b75-4de2-be3f-7e4cf386f293" />
+
 
 ##  Labs Included
 
